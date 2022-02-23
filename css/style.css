@@ -360,7 +360,6 @@ body {
   }
   .place-for-about .container .about-text p {
     font-size: 24px;
-    line-height: 20px;
   }
 }
 
@@ -484,7 +483,6 @@ body {
   }
   .place-for-poslug .container .about-text p {
     font-size: 24px;
-    line-height: 20px;
   }
   .place-for-poslug .container .about-text p:first-child {
     margin-bottom: 15px;
@@ -895,6 +893,7 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  margin-bottom: 20px;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
