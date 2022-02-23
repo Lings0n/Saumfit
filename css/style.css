@@ -191,7 +191,6 @@ body {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    height: 100px;
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between;
@@ -283,7 +282,7 @@ body {
 }
 
 .main .firstimgall {
-  margin-top: 45px;
+  margin-top: 65px;
   background-color: #646439;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -323,7 +322,7 @@ body {
   display: block;
   color: #000000;
   text-align: center;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 48px;
   margin-bottom: 30px;
 }
@@ -443,7 +442,7 @@ body {
   display: block;
   color: #000000;
   text-align: center;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 48px;
   margin-bottom: 30px;
 }
@@ -539,7 +538,7 @@ body {
     margin-bottom: 10px;
   }
   .place-for-poslug .container .about-text p {
-    font-size: 13px;
+    font-size: 14px;
     line-height: 15px;
     margin-bottom: 20px;
   }
@@ -562,7 +561,7 @@ body {
     padding-bottom: 4px;
   }
   .place-for-poslug .container .about-text p {
-    font-size: 12px;
+    font-size: 13px;
     line-height: 15px;
   }
   .place-for-poslug .container .about-text p:first-child {
@@ -834,6 +833,7 @@ body {
     padding-top: 0px;
   }
   .contacts .container .social .social-title {
+    padding-top: 10px;
     margin-top: 0px;
     font-size: 20px;
     margin-bottom: 10px;

@@ -199,7 +199,7 @@ body{
             display: block;
             color: #000000;
             text-align: center;
-            font-weight: 500;
+            font-weight: 600;
             font-size: 48px;
             margin-bottom: 30px;
             & span{
@@ -319,7 +319,7 @@ body{
             display: block;
             color: #000000;
             text-align: center;
-            font-weight: 500;
+            font-weight: 600;
             font-size: 48px;
             margin-bottom: 30px;
             & span{
@@ -422,7 +422,7 @@ body{
                 }
             }
             & .about-text p{
-                font-size: 13px;
+                font-size: 14px;
                 line-height: 15px; 
                 margin-bottom: 20px;    
             }
@@ -446,7 +446,7 @@ body{
                 }
             }
             & .about-text p{
-                font-size: 12px;
+                font-size: 13px;
                 line-height: 15px;     
             }
             & .about-text p:first-child{
@@ -712,6 +712,7 @@ body{
                 padding-bottom: 0px;
                 padding-top: 0px;
                 & .social-title{
+                    padding-top: 10px;
                     margin-top: 0px;
                     font-size: 20px;
                     margin-bottom: 10px;
