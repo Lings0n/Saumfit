@@ -21,7 +21,7 @@ body{
     display: grid;
     background-color:#ffffff;
     align-items: center;
-    height: 90px;
+    height: 100px;
     grid-template-columns: 1fr minmax(auto,700px) minmax(auto,900px ) 1fr;
     grid-template-rows: 1fr;
     & .logo{
@@ -83,7 +83,7 @@ body{
 @media (max-width: 1350px){
     .header{
         display: flex;
-        height: 80px;
+        height: 90px;
         justify-content: space-between;
         & .logo{
             padding-left: 30px;
@@ -103,7 +103,7 @@ body{
 
 @media (max-width: 1150px){
     .header{
-        height: 75px;
+        height: 85px;
         & .logo{
             padding-left: 18px;
             & .logolink{
@@ -133,7 +133,7 @@ body{
         display: none;  
     }
     .header{
-        height: 55px;
+        height: 65px;
         & .logo{
             padding-left: 14px;
             & .logolink{
@@ -151,7 +151,7 @@ body{
 
 @media (max-width: 400px){
     .header{
-        height: 45px;
+        height: 55px;
         & .logo{
             padding-left: 10px;
             & .logolink{

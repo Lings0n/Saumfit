@@ -101,7 +101,7 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  height: 90px;
+  height: 100px;
   -ms-grid-columns: 1fr minmax(auto, 700px) minmax(auto, 900px) 1fr;
       grid-template-columns: 1fr minmax(auto, 700px) minmax(auto, 900px) 1fr;
   -ms-grid-rows: 1fr;
@@ -191,7 +191,7 @@ body {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    height: 80px;
+    height: 90px;
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between;
@@ -209,7 +209,7 @@ body {
 
 @media (max-width: 1150px) {
   .header {
-    height: 75px;
+    height: 85px;
   }
   .header .logo {
     padding-left: 18px;
@@ -237,7 +237,7 @@ body {
     display: none;
   }
   .header {
-    height: 55px;
+    height: 65px;
   }
   .header .logo {
     padding-left: 14px;
@@ -255,7 +255,7 @@ body {
 
 @media (max-width: 400px) {
   .header {
-    height: 45px;
+    height: 55px;
   }
   .header .logo {
     padding-left: 10px;
