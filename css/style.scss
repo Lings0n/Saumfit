@@ -83,7 +83,7 @@ body{
 @media (max-width: 1350px){
     .header{
         display: flex;
-        height: 90px;
+        height: 100px;
         justify-content: space-between;
         & .logo{
             padding-left: 30px;
@@ -103,7 +103,7 @@ body{
 
 @media (max-width: 1150px){
     .header{
-        height: 85px;
+        height: 95px;
         & .logo{
             padding-left: 18px;
             & .logolink{
@@ -133,7 +133,7 @@ body{
         display: none;  
     }
     .header{
-        height: 65px;
+        height: 75px;
         & .logo{
             padding-left: 14px;
             & .logolink{
@@ -151,7 +151,7 @@ body{
 
 @media (max-width: 400px){
     .header{
-        height: 55px;
+        height: 65px;
         & .logo{
             padding-left: 10px;
             & .logolink{
