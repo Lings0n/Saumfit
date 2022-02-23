@@ -83,7 +83,6 @@ body{
 @media (max-width: 1350px){
     .header{
         display: flex;
-        height: 100px;
         justify-content: space-between;
         & .logo{
             padding-left: 30px;
@@ -170,7 +169,7 @@ body{
     flex: 1 1 auto;
     flex-direction: column;
     & .firstimgall{
-        margin-top: 45px;
+        margin-top: 65px;
         background-color: #646439;
         display: flex;
         justify-content: center;
