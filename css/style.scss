@@ -253,7 +253,7 @@ body{
                 }
             }
             & .about-text p{
-                font-size: 16px;
+                font-size: 18px;
                 line-height: 20px;     
             }
         }
@@ -266,14 +266,14 @@ body{
             padding-top: 20px;
             padding-bottom: 20px;
             & .about-title{
-                font-size: 18px;
+                font-size: 20px;
                 margin-bottom: 15px;
                 & span{
                     padding-bottom: 5px;
                 }
             }
             & .about-text p{
-                font-size: 14px;
+                font-size: 16px;
                 line-height: 15px;     
             }
             & .about-text p:first-child{
@@ -289,14 +289,14 @@ body{
             padding-top: 15px;
             padding-bottom: 20px;
             & .about-title{
-                font-size: 14px;
+                font-size: 18px;
                 margin-bottom: 10px;
                 & span{
                     padding-bottom: 7px;
                 }
             }
             & .about-text p{
-                font-size: 13px;
+                font-size: 14px;
                 line-height: 15px;     
             }
             & .about-text p:first-child{
@@ -389,7 +389,7 @@ body{
                 }
             }
             & .about-text p{
-                font-size: 16px;
+                font-size: 18px;
                 line-height: 20px;
                 margin-bottom: 30px;
             }
@@ -406,7 +406,7 @@ body{
             padding-top: 20px;
             padding-bottom: 10px;
             & .about-title{
-                font-size: 18px;
+                font-size: 20px;
                 margin-bottom: 15px;
                 & span{
                     padding-bottom: 5px;
@@ -420,7 +420,7 @@ body{
                 }
             }
             & .about-text p{
-                font-size: 14px;
+                font-size: 16px;
                 line-height: 15px; 
                 margin-bottom: 20px;    
             }
@@ -437,15 +437,20 @@ body{
             padding-top: 15px;
             padding-bottom: 20px;
             & .about-title{
-                font-size: 16px;
+                font-size: 18px;
                 margin-bottom: 5px;
                 & span{
                     padding-bottom: 4px;
                 }
             }
             & .about-text p{
-                font-size: 13px;
-                line-height: 15px;     
+                font-size: 14px;
+                line-height: 15px;
+                & .pos-title{
+                    font-weight: 600;
+                    font-size: 15px;
+                    margin-bottom: 10px;
+                }     
             }
             & .about-text p:first-child{
                 margin-bottom: 10px;     

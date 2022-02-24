@@ -376,7 +376,7 @@ body {
     padding-bottom: 9px;
   }
   .place-for-about .container .about-text p {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 20px;
   }
 }
@@ -388,14 +388,14 @@ body {
     padding-bottom: 20px;
   }
   .place-for-about .container .about-title {
-    font-size: 18px;
+    font-size: 20px;
     margin-bottom: 15px;
   }
   .place-for-about .container .about-title span {
     padding-bottom: 5px;
   }
   .place-for-about .container .about-text p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 15px;
   }
   .place-for-about .container .about-text p:first-child {
@@ -410,14 +410,14 @@ body {
     padding-bottom: 20px;
   }
   .place-for-about .container .about-title {
-    font-size: 14px;
+    font-size: 18px;
     margin-bottom: 10px;
   }
   .place-for-about .container .about-title span {
     padding-bottom: 7px;
   }
   .place-for-about .container .about-text p {
-    font-size: 13px;
+    font-size: 14px;
     line-height: 15px;
   }
   .place-for-about .container .about-text p:first-child {
@@ -508,7 +508,7 @@ body {
     margin-bottom: 10px;
   }
   .place-for-poslug .container .about-text p {
-    font-size: 16px;
+    font-size: 18px;
     line-height: 20px;
     margin-bottom: 30px;
   }
@@ -524,7 +524,7 @@ body {
     padding-bottom: 10px;
   }
   .place-for-poslug .container .about-title {
-    font-size: 18px;
+    font-size: 20px;
     margin-bottom: 15px;
   }
   .place-for-poslug .container .about-title span {
@@ -536,7 +536,7 @@ body {
     margin-bottom: 10px;
   }
   .place-for-poslug .container .about-text p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 15px;
     margin-bottom: 20px;
   }
@@ -552,15 +552,20 @@ body {
     padding-bottom: 20px;
   }
   .place-for-poslug .container .about-title {
-    font-size: 16px;
+    font-size: 18px;
     margin-bottom: 5px;
   }
   .place-for-poslug .container .about-title span {
     padding-bottom: 4px;
   }
   .place-for-poslug .container .about-text p {
-    font-size: 13px;
+    font-size: 14px;
     line-height: 15px;
+  }
+  .place-for-poslug .container .about-text p .pos-title {
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 10px;
   }
   .place-for-poslug .container .about-text p:first-child {
     margin-bottom: 10px;
