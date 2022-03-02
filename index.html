@@ -14,37 +14,38 @@
 	</head>
     <body>
 		<div class="content">
-			<header class="header">	
-				<div class="logo">
-					<a class="logolink" href="#main"><div class="logo__text">SAUM<span class="logoy">FIT</span></div></a>
+			<header class="header-container">	
+				<div class="header">
+					<div class="logo">
+						<a class="logolink" href="#main"><div class="logo__text">SAUM<span class="logoy">FIT</span></div></a>
+					</div>
+					<nav class="menu">
+						<div class="menus">
+							<ul class="header__menu">
+								<li class="header__menu_link">
+									<a href="#main" class="link">Головна сторінка</a>
+								</li>
+								<li class="header__menu_link">
+									<a href="#about" class="link">Про нас</a>
+								</li>
+								<li class="header__menu_link">
+									<a href="#poslug" class="link">Послуги</a>
+								</li>
+								<li class="header__menu_link">
+									<a href="#contacts" class="link">Контакти</a>
+								</li>
+							</ul>
+						</div>
+
+						<div class="header__burger">
+							<div onclick="myFunction(this)">
+								<div class="bar1"></div>
+								<div class="bar2"></div>
+								<div class="bar3"></div>
+							  </div>
+						</div>
+					</nav>
 				</div>
-				<nav class="menu">
-					<div class="menus">
-						<ul class="header__menu">
-							<li class="header__menu_link">
-								<a href="#main" class="link">Головна сторінка</a>
-							</li>
-							<li class="header__menu_link">
-								<a href="#about" class="link">Про нас</a>
-							</li>
-							<li class="header__menu_link">
-								<a href="#poslug" class="link">Послуги</a>
-							</li>
-							<li class="header__menu_link">
-								<a href="#contacts" class="link">Контакти</a>
-							</li>
-						</ul>
-					</div>
-
-					<div class="header__burger">
-						Menu
-
-
-
-
-					</div>
-					
-				</nav>
 			</header>
 			<div id="main" class="main">
 				<div class="firstimgall">
@@ -132,5 +133,7 @@
 				</div>
 			</footer>
 		</div>
+		<script src="js/script.js" >
+		</script>
     </body>
 </html> 
